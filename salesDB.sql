@@ -124,7 +124,7 @@ SELECT Product.PRO_ID, `PRO_NAME V` AS `PRODUCT NAME` FROM PRODUCT
 SELECT CUS_NAME, CUS_GENDER FROM Customer
 	WHERE CUS_NAME LIKE 'A%' OR CUS_NAME LIKE '%A';
     
--- Question 9: Make create a stored procedure to display supplier id, name, rating and Type_of_Service.
+-- Question 9: Create a stored procedure to display supplier id, name, rating and Type_of_Service.
 -- For Type_of_Service, If rating =5, print "Excellent Service",If rating >4 print "Good Service", 
 -- If rating >2 print "Average Service" else print "Poor Service".
 
