@@ -3,7 +3,7 @@
 <b>Project:</b><br>
 1. Build a database schema from scratch in relation to the Entity Relation Diagram shown below;
 <br>
-<img src="https://github.com/mulongocheloti/Sales-Database-MySQL-Workbench-/blob/main/ERD(Re-engineered%20in%20Workbench).JPG">
+<img src="https://github.com/mulongocheloti/Sales-Database-MySQL-Workbench-/blob/main/ERD.JPG">
 <br>
 2. Insert some test records into the tables.<br><br>
 3. Display the total number of customers based on gender who have placed orders of worth at least Rs.3000.<br><br>
